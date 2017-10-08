@@ -19,7 +19,6 @@ Aprenda a desenvolver um crud RESPONSIVO, utilizando: Java, Bootstrap, Primeface
 * Tomcat
 
 ## License
-myRuleEngine is released under the terms of the MIT license:
 
 ```
 The MIT License (MIT)
