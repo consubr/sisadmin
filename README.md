@@ -1,10 +1,6 @@
-# crud-adminfaces
+## Adminfaces
 
-<p> Versão final do curso Web disponibilizado gratuitamente através do Youtube</p>
-
-## Objetivo
-
-Aprenda a desenvolver um crud RESPONSIVO, utilizando: Java, Bootstrap, Primefaces, AdminLTE, JSF, Hibernate e MySql.
+Crud RESPONSIVO, utilizando: Java, Bootstrap, Primefaces, AdminLTE, JSF, Hibernate e MySql.
 
 ## Tecnologias
 
